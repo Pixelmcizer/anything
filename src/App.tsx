@@ -27,7 +27,11 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
+<<<<<<< Updated upstream
         Click on the Vite and React logos to learn more for it , if u can
+=======
+        Click on the Vite and React logos to learn jpqd more
+>>>>>>> Stashed changes
       </p>
     </>
   )
