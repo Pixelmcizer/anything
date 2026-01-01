@@ -28,9 +28,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more for it , if u can
-        Click on the Vite and React logos to learn jpqd more
       </p>
-      <p> completly new branch </p>
     </>
   )
 }
